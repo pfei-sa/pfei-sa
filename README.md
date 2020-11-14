@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=sa-tony&hide=html)
+![Jannchie's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=sa-tony&show_icons=true&count_private=true&line_height=33.7)
+
 <!--
 **sa-tony/sa-tony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
